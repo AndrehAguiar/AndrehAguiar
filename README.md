@@ -16,8 +16,8 @@ Certificado como destaque acadêmico no curso Tecnólogo de Gestão da TI do UNI
 Aplicar conhecimentos de forma inovadora, acompanhando a evolução da área de Tecnologia da Informação, contribuindo para a busca de soluções em diferentes setores nas organizações. Auxiliar na tomada de decisões em ambientes coorporativos caracterizados pelo uso da tecnologia de informação, proporcionando vantagens competitivas para a organização. Interagir com os diversos setores da organização, a fim de conceber, desenvolver, gerenciar e aprimorar sistemas de informação. Utilizar, adequada e eficazmente, as tecnologias de informação na solução de problemas relativos a domínios de aplicação específicos.
 
 <img width=70px, heigth=auto, src='https://media-exp1.licdn.com/dms/image/C4D03AQGZdoF3rG0Vxw/profile-displayphoto-shrink_200_200/0?e=1603929600&v=beta&t=h5-vg6uII7xovRUGHEJEbVtvAiomxGIN492lKZp8JoU'>
-André Aguiar<br>Gestor de TI<br>
-<a href='https://www.linkedin.com/in/andre-aguiar/'><img width=40px heigth=auto src='https://image.flaticon.com/icons/png/512/174/174857.png'></a> &nbsp; &nbsp; <a href='https://www.behance.net/AndrehAugusto'><img  width=50px heigth=auto src='https://cdn.worldvectorlogo.com/logos/behance-2.svg' ></a>
+André Aguiar<br>Gestor de TI<br>andreaguiar.g@gmail.com<br>
+<a href='https://www.linkedin.com/in/andre-aguiar/'><img width=40px heigth=auto src='https://image.flaticon.com/icons/png/512/174/174857.png'></a> &nbsp; <a href='https://www.behance.net/AndrehAugusto'><img  width=50px heigth=auto src='https://cdn.worldvectorlogo.com/logos/behance-2.svg' ></a>
 <!--
 **AndrehAguiar/AndrehAguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
