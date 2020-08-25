@@ -17,7 +17,7 @@ Aplicar conhecimentos de forma inovadora, acompanhando a evolução da área de 
 
 <img width=70px, heigth=auto, src='https://media-exp1.licdn.com/dms/image/C4D03AQGZdoF3rG0Vxw/profile-displayphoto-shrink_200_200/0?e=1603929600&v=beta&t=h5-vg6uII7xovRUGHEJEbVtvAiomxGIN492lKZp8JoU'>
 André Aguiar<br>Gestor de TI<br>andreaguiar.g@gmail.com<br><hr>
-<a href='http://topartes.com.br/'><img width=80px heigth=auto src='http://topartes.com.br/img/logo_topartes.png'></a> &nbsp; <a href='https://www.linkedin.com/in/andre-aguiar/'><img width=40px heigth=auto src='https://image.flaticon.com/icons/png/512/174/174857.png'></a> &nbsp; <a href='https://www.behance.net/AndrehAugusto'><img  width=50px heigth=auto src='https://cdn.worldvectorlogo.com/logos/behance-2.svg' ></a>
+<a href='http://topartes.com.br/'><img width=70px heigth=auto src='http://topartes.com.br/img/logo_topartes.png'></a> &nbsp; <a href='https://www.linkedin.com/in/andre-aguiar/'><img width=40px heigth=auto src='https://image.flaticon.com/icons/png/512/174/174857.png'></a> &nbsp; <a href='https://www.behance.net/AndrehAugusto'><img  width=50px heigth=auto src='https://cdn.worldvectorlogo.com/logos/behance-2.svg' ></a><a href='https://www.udemy.com/user/andre-augusto-aguiar-gomes/'><img width=100px heigth=auto src='https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg'></a>
 <!--
 **AndrehAguiar/AndrehAguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
