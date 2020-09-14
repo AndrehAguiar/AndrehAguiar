@@ -1,5 +1,5 @@
 #### Apresentação
-Profissional dedicado e de fácil adaptação, motivado, comunicativo, proativo e focado nos resultados. Sinto prazer ao trabalhar em equipe e atingir os objetivos.
+Profissional dedicado e de fácil adaptação, motivado, comunicativo, proativo, colaborativo e focado nos resultados. Sinto prazer ao trabalhar em equipe e atingir os objetivos.
 
 #### Qualificações / Cursos
 <ol>
