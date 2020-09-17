@@ -11,10 +11,6 @@ Profissional dedicado e de fácil adaptação, motivado, comunicativo, proativo,
  
 #### Informações complementares
 Certificado como destaque acadêmico no curso Tecnólogo de Gestão da TI do UNI-BH e pela excelência no atendimento na AeC.
-
-#### COMPETÊNCIAS
-Aplicar conhecimentos de forma inovadora, acompanhando a evolução da área de Tecnologia da Informação, contribuindo para a busca de soluções em diferentes setores nas organizações. Auxiliar na tomada de decisões em ambientes coorporativos caracterizados pelo uso da tecnologia de informação, proporcionando vantagens competitivas para a organização. Interagir com os diversos setores da organização, a fim de conceber, desenvolver, gerenciar e aprimorar sistemas de informação. Utilizar, adequada e eficazmente, as tecnologias de informação na solução de problemas relativos a domínios de aplicação específicos.
-
 ### Portifólio
 E-Commerce: [HTML / CSS / JQuery / JavaScript / PHP / SQL](https://topartes.com/)<br>
 Verifica Dúvidas: [PHP / SQL / JavaScript](http://topartes.esy.es/)<br>
@@ -23,6 +19,10 @@ AppZenva: [HTML / CSS / JavaScript](https://andrehaguiar.github.io/AppZenvaLove/
 AppQuiz: [HTML / CSS / JavaScript](https://andrehaguiar.github.io/AppQuiz/)<br>
 Simplemooc: [Django / Python](https://top-simplemooc.herokuapp.com/conta/)<br>
 Visualização de dados (CSV): [DASH](https://app-visualiza-dados-dash.herokuapp.com/)
+#### COMPETÊNCIAS
+Aplicar conhecimentos de forma inovadora, acompanhando a evolução da área de Tecnologia da Informação, contribuindo para a busca de soluções em diferentes setores nas organizações. Auxiliar na tomada de decisões em ambientes coorporativos caracterizados pelo uso da tecnologia de informação, proporcionando vantagens competitivas para a organização. Interagir com os diversos setores da organização, a fim de conceber, desenvolver, gerenciar e aprimorar sistemas de informação. Utilizar, adequada e eficazmente, as tecnologias de informação na solução de problemas relativos a domínios de aplicação específicos.
+
+
 <hr>
 <img width=70px, heigth=auto, src='https://media-exp1.licdn.com/dms/image/C4D03AQGZdoF3rG0Vxw/profile-displayphoto-shrink_200_200/0?e=1603929600&v=beta&t=h5-vg6uII7xovRUGHEJEbVtvAiomxGIN492lKZp8JoU'>
 André Aguiar<br>Gestor de TI<br>andreaguiar.g@gmail.com<br><hr>
