@@ -16,7 +16,7 @@ Certificado como destaque acadêmico no curso Tecnólogo de Gestão da TI do UNI
 Aplicar conhecimentos de forma inovadora, acompanhando a evolução da área de Tecnologia da Informação, contribuindo para a busca de soluções em diferentes setores nas organizações. Auxiliar na tomada de decisões em ambientes coorporativos caracterizados pelo uso da tecnologia de informação, proporcionando vantagens competitivas para a organização. Interagir com os diversos setores da organização, a fim de conceber, desenvolver, gerenciar e aprimorar sistemas de informação. Utilizar, adequada e eficazmente, as tecnologias de informação na solução de problemas relativos a domínios de aplicação específicos.
 
 ### Portifólio
-E-Commerce: [HTML / CSS / JQuery / JavaScript / PHP / SQL](https://topartes.com/)
+E-Commerce: [HTML / CSS / JQuery / JavaScript / PHP / SQL](https://topartes.com/)<br>
 Verifica Dúvidas: [PHP / SQL / JavaScript](http://topartes.esy.es/)<br>
 App Verifica Dúvidas: [Android Studio / Java / WEB Services / SQL / MVC](https://drive.google.com/file/d/1tInJPyFS-tl3xWtAL-pmHlosB1tMN_qM/view?usp=sharing)<br>
 AppZenva: [HTML / CSS / JavaScript](https://andrehaguiar.github.io/AppZenvaLove/)<br>
