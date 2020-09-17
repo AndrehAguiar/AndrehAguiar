@@ -15,6 +15,14 @@ Certificado como destaque acadêmico no curso Tecnólogo de Gestão da TI do UNI
 #### COMPETÊNCIAS
 Aplicar conhecimentos de forma inovadora, acompanhando a evolução da área de Tecnologia da Informação, contribuindo para a busca de soluções em diferentes setores nas organizações. Auxiliar na tomada de decisões em ambientes coorporativos caracterizados pelo uso da tecnologia de informação, proporcionando vantagens competitivas para a organização. Interagir com os diversos setores da organização, a fim de conceber, desenvolver, gerenciar e aprimorar sistemas de informação. Utilizar, adequada e eficazmente, as tecnologias de informação na solução de problemas relativos a domínios de aplicação específicos.
 
+### Portifólio
+Verifica Dúvidas: [PHP / SQL / JavaScript](http://topartes.esy.es/)<br>
+App Verifica Dúvidas: [Android Studio / Java / WEB Services / SQL / MVC](https://drive.google.com/file/d/1tInJPyFS-tl3xWtAL-pmHlosB1tMN_qM/view?usp=sharing)<br>
+AppZenva: [HTML / CSS / JavaScript](https://andrehaguiar.github.io/AppZenvaLove/)<br>
+AppQuiz: [HTML / CSS / JavaScript](https://andrehaguiar.github.io/AppQuiz/)<br>
+Simplemooc: [Django / Python](https://top-simplemooc.herokuapp.com/conta/)<br>
+Visualização de dados (CSV): [DASH](https://app-visualiza-dados-dash.herokuapp.com/)
+<hr>
 <img width=70px, heigth=auto, src='https://media-exp1.licdn.com/dms/image/C4D03AQGZdoF3rG0Vxw/profile-displayphoto-shrink_200_200/0?e=1603929600&v=beta&t=h5-vg6uII7xovRUGHEJEbVtvAiomxGIN492lKZp8JoU'>
 André Aguiar<br>Gestor de TI<br>andreaguiar.g@gmail.com<br><hr>
 <a href='http://topartes.com.br/'><img width=80px heigth=auto src='http://topartes.com.br/img/logo_topartes.png'></a> &nbsp;
