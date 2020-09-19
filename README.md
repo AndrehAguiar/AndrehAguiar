@@ -1,3 +1,6 @@
+## Tecnólogo em Gestão de TI (UNIBH)
+### Pós-Graduando em Ciência de Dados e Inteligência Artificial (UNIBH)
+
 #### Apresentação
 Profissional dedicado e de fácil adaptação, motivado, comunicativo, proativo, colaborativo e focado nos resultados. Sinto prazer ao trabalhar em equipe e atingir os objetivos.
 
@@ -10,7 +13,7 @@ Profissional dedicado e de fácil adaptação, motivado, comunicativo, proativo,
  
  
 #### Informações complementares
-Certificado como destaque acadêmico no curso Tecnólogo de Gestão da TI do UNI-BH e pela excelência no atendimento na AeC.
+Certificado como destaque acadêmico no curso Tecnólogo de Gestão de TI do UNI-BH e pela excelência no atendimento na AeC.
 ### Portifólio
 E-Commerce: [HTML / CSS / JQuery / JavaScript / PHP / SQL](https://topartes.com/)<br>
 Verifica Dúvidas: [PHP / SQL / JavaScript](http://topartes.esy.es/)<br>
