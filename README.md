@@ -18,7 +18,7 @@ App Verifica Dúvidas: [Android Studio / Java / WEB Services / SQL / MVC](https:
 AppZenva: [HTML / CSS / JavaScript](https://andrehaguiar.github.io/AppZenvaLove/)<br>
 AppQuiz: [HTML / CSS / JavaScript](https://andrehaguiar.github.io/AppQuiz/)<br>
 Simplemooc: [Django / Python](https://top-simplemooc.herokuapp.com/conta/)<br>
-Visualização de dados (CSV): [DASH](https://app-visualiza-dados-dash.herokuapp.com/)
+Visualização de dados (CSV): [DASH / Python / PlotLy](https://app-visualiza-dados-dash.herokuapp.com/)
 #### COMPETÊNCIAS
 Aplicar conhecimentos de forma inovadora, acompanhando a evolução da área de Tecnologia da Informação, contribuindo para a busca de soluções em diferentes setores nas organizações. Auxiliar na tomada de decisões em ambientes coorporativos caracterizados pelo uso da tecnologia de informação, proporcionando vantagens competitivas para a organização. Interagir com os diversos setores da organização, a fim de conceber, desenvolver, gerenciar e aprimorar sistemas de informação. Utilizar, adequada e eficazmente, as tecnologias de informação na solução de problemas relativos a domínios de aplicação específicos.
 
