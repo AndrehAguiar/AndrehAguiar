@@ -8,7 +8,7 @@ Profissional dedicado e de fácil adaptação, motivado, comunicativo, proativo,
 <ol>
   <li>Administrativo: Sensibilização pela Qualidade, Atendimento Qualificado ao Público, Informática Avançada (Windows e Microsoft Office), Digitação (incompleta), Financiamento e Prestação de Contas de Campanha/Eleições e TRE-MG.</li>
   <li>Computação Gráfica: Informática voltada para o desenho técnico, Corel Draw (Avançado), Adobe Illustrator, Indesign, Photoshop (Avançado), Dreamweaver (Avançado), Flash, Premiere Pro, After Effects, Encore, Autodesk Maya, Autocad 2D/3D e 3D Studio Max;</li>
-  <li>Progragamação: HTML, CSS, JavaScript, PHP, SQL, Python, JAVA e Android Studio.</li>
+  <li>Programação: HTML, CSS, JavaScript, PHP, SQL, Python, JAVA e Android Studio.</li>
  </ol>
  
  
