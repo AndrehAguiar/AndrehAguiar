@@ -27,7 +27,6 @@ Aplicar conhecimentos de forma inovadora, acompanhando a evolução da área de 
 
 
 <hr>
-<img width=70px, heigth=auto, src='https://media-exp1.licdn.com/dms/image/C4D03AQGZdoF3rG0Vxw/profile-displayphoto-shrink_200_200/0?e=1603929600&v=beta&t=h5-vg6uII7xovRUGHEJEbVtvAiomxGIN492lKZp8JoU'>
 André Aguiar<br>Gestor de TI<br>andreaguiar.g@gmail.com<br><hr>
 <a href='http://topartes.com.br/'><img width=80px heigth=auto src='http://topartes.com.br/img/logo_topartes.png'></a> &nbsp;
 <a href='https://www.linkedin.com/in/andre-aguiar/'><img width=40px heigth=auto src='https://image.flaticon.com/icons/png/512/174/174857.png'></a> &nbsp;
