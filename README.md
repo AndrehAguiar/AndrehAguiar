@@ -15,7 +15,7 @@ Profissional dedicado e de fácil adaptação, motivado, comunicativo, proativo,
 #### Informações complementares
 Certificado como destaque acadêmico no curso Tecnólogo de Gestão de TI do UNI-BH e pela excelência no atendimento na AeC.
 ### Portifólio
-E-Commerce: [JAVA, React, Javascript, HTML, CSS, Srping](https://andre-sds2-delivery.netlify.app/)<br>
+E-Commerce: [JAVA, React, Javascript, HTML, CSS, Spring](https://andre-sds2-delivery.netlify.app/)<br>
 E-Commerce: [HTML / CSS / JQuery / JavaScript / PHP / SQL](https://topartes.com/)<br>
 Verifica Dúvidas: [PHP / SQL / JavaScript](http://topartes.esy.es/)<br>
 App Verifica Dúvidas: [Android Studio / Java / WEB Services / SQL / MVC](https://drive.google.com/file/d/1tInJPyFS-tl3xWtAL-pmHlosB1tMN_qM/view?usp=sharing)<br>
