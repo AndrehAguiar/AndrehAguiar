@@ -1,5 +1,5 @@
 ## Tecnólogo em Gestão de TI (UNIBH)
-### Pós-Graduando em Ciência de Dados e Inteligência Artificial (UNIBH)
+### MBA em Ciência de Dados e Inteligência Artificial (UNIBH)
 
 #### Apresentação
 Profissional dedicado e de fácil adaptação, motivado, comunicativo, proativo, colaborativo e focado nos resultados. Sinto prazer ao trabalhar em equipe e atingir os objetivos.
