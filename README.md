@@ -1,8 +1,27 @@
-## Tecnólogo em Gestão de TI (UNIBH)
-### MBA em Ciência de Dados e Inteligência Artificial (UNIBH)
-
+# Olá sou o André Aguiar, seja bem vindo!
+### MBA: Ciência de Dados e Inteligência Artificial (UNIBH)
+### Tecnólogo: Gestão de TI (UNIBH)
+---
 #### Apresentação
-Profissional dedicado e de fácil adaptação, motivado, comunicativo, proativo, colaborativo e focado nos resultados. Sinto prazer ao trabalhar em equipe e atingir os objetivos.
+Profissional dedicado e de fácil adaptação, disciplinado, comunicativo, proativo, colaborativo e focado nos resultados. Sinto prazer ao trabalhar em equipe e atingir os objetivos.
+
+<p>
+<img src="https://img.shields.io/badge/Front End-Angular-f55247"/>
+<img src="https://img.shields.io/badge/Front End-React-f55247"/>
+<img src="https://img.shields.io/badge/Back End-PHP-f55247"/>
+<img src="https://img.shields.io/badge/Back End-Java-f55247"/>
+<img src="https://img.shields.io/badge/Back End-Python-f55247"/>
+</p>
+
+![Andre's github stats](https://github-readme-stats.vercel.app/api?username=AndrehAguiar&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrehAguiar&theme=dark&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>
+<img src="http://views.whatilearened.today/views/github/AndrehAguiar/views.svg"/>
+  <a href="https://github.com/AndrehAguiar/">
+   <img src="https://img.shields.io/github/followers/AndrehAguiar?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+</p>
 
 #### Qualificações / Cursos
 <ol>
@@ -28,7 +47,7 @@ Aplicar conhecimentos de forma inovadora, acompanhando a evolução da área de 
 
 
 <hr>
-André Aguiar<br>Gestor de TI<br>andreaguiar.g@gmail.com<br><hr>
+André Aguiar<br>Gestor de TI | MBA - DS e IA<br>andreaguiar.g@gmail.com<br><hr>
 <a href='http://topartes.com.br/'><img width=80px heigth=auto src='http://topartes.com.br/img/logo_topartes.png'></a> &nbsp;
 <a href='https://www.linkedin.com/in/andre-aguiar/'><img width=40px heigth=auto src='https://image.flaticon.com/icons/png/512/174/174857.png'></a> &nbsp;
 <a href='https://www.behance.net/AndrehAugusto'><img  width=60px heigth=auto src='https://cdn.worldvectorlogo.com/logos/behance-2.svg' ></a> &nbsp;
