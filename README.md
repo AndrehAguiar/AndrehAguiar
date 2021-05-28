@@ -52,6 +52,8 @@ André Aguiar<br>Gestor de TI | MBA - DS e IA<br>andreaguiar.g@gmail.com<br><hr>
 <a href='https://www.linkedin.com/in/andre-aguiar/'><img width=40px heigth=auto src='https://image.flaticon.com/icons/png/512/174/174857.png'></a> &nbsp;
 <a href='https://www.behance.net/AndrehAugusto'><img  width=60px heigth=auto src='https://cdn.worldvectorlogo.com/logos/behance-2.svg' ></a> &nbsp;
 <a href='https://www.udemy.com/user/andre-augusto-aguiar-gomes/'><img width=130px heigth=auto src='https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg'></a>
+<a href='https://digitalinnovation.one/sign-up?ref=NL9EADWVZW'><img width=150px heigth=auto src='https://user-images.githubusercontent.com/24209353/120013414-13615b80-bfb7-11eb-936b-7775e5ff6510.png'></a>
+
 <!--
 **AndrehAguiar/AndrehAguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
