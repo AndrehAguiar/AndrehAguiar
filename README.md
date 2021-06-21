@@ -48,6 +48,10 @@ Aplicar conhecimentos de forma inovadora, acompanhando a evolução da área de 
 
 <hr>
 André Aguiar<br>Gestor de TI | MBA - DS e IA<br>andreaguiar.g@gmail.com<br><hr>
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=AndrehAguiar&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<hr>
 <a href='http://topartes.com.br/'><img width=80px heigth=auto src='http://topartes.com.br/img/logo_topartes.png'></a> &nbsp;
 <a href='https://www.linkedin.com/in/andre-aguiar/'><img width=40px heigth=auto src='https://image.flaticon.com/icons/png/512/174/174857.png'></a> &nbsp;
 <a href='https://www.behance.net/AndrehAugusto'><img  width=60px heigth=auto src='https://cdn.worldvectorlogo.com/logos/behance-2.svg' ></a> &nbsp;
