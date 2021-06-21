@@ -13,8 +13,8 @@ Profissional dedicado e de fácil adaptação, disciplinado, comunicativo, proat
 <img src="https://img.shields.io/badge/Back End-Python-f55247"/>
 </p>
 
-<a href="https://github.com/arman-bd"><img src="https://github-readme-stats.vercel.app/api?username=AndrehAguiar&show_icons=true&theme=dark&count_private=true" height="180" /></a> <a href="https://github.com/arman-bd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrehAguiar&show_icons=true&theme=dark&langs_count=8&hide=html,css&layout=compact" height="180" /></a>
-
+<a href="https://github.com/arman-bd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrehAguiar&show_icons=true&theme=dark&langs_count=8&hide=html,css&layout=compact" height="180" /></a>
+<a href="https://github.com/arman-bd"><img src="https://github-readme-stats.vercel.app/api?username=AndrehAguiar&show_icons=true&theme=dark&count_private=true" height="180" /></a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndrehAguiar&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
