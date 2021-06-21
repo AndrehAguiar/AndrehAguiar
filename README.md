@@ -15,7 +15,7 @@ Profissional dedicado e de fácil adaptação, disciplinado, comunicativo, proat
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrehAguiar&theme=dark&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)![Andre's github stats](https://github-readme-stats.vercel.app/api?username=AndrehAguiar&show_icons=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AndrehAguiar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AndrehAguiar&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
 <img src="http://views.whatilearened.today/views/github/AndrehAguiar/views.svg"/>
